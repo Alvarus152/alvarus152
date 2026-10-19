@@ -1,7 +1,8 @@
-<h1 align="center">Hi , I'm alvaro michel  &#128075</h1>
+<h1 align="center">Hello, I’m Alvaro Michel. &#128075</h1>
 
+#  full-stack developer   -    AI engineer  #
 
-### 🤖 Artificial Intelligence and Bots
+ ### 🤖 Artificial Intelligence and Bots
 
 
 <h2>     AI assistants, chatbots, and machine learning platforms.   </h2>
