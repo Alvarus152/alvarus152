@@ -2,6 +2,16 @@
 
 #  full-stack developer   -    AI engineer  #
 
+### 👨‍💻 Sobre mí
+  Soy un desarrollador apasionado por la intersección entre el desarrollo web moderno y la Inteligencia Artificial. Me
+  especializo en construir plataformas de Machine Learning y chatbots inteligentes que resuelven problemas reales. Mi
+  enfoque es crear soluciones escalables, eficientes y con una experiencia de usuario excepcional.
+
+  - 🔭 Actualmente trabajando en: **Proyectos de IA y Arquitecturas Full-Stack**
+  - 🌱 Aprendiendo constantemente sobre: **Modelos de Lenguaje (LLMs) y Optimización de Datos**
+  - 🎯 Meta: Crear herramientas que democraticen el acceso a la IA.
+  - 
+
  ### 🤖 Artificial Intelligence and Bots
 
 
